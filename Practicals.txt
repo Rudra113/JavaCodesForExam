@@ -1,0 +1,10 @@
+1. To find the sum of any number of integers entered as command line arguments.
+2. To find the factorial of a given number.
+3. To convert a decimal to binary number.
+4. To check if a number is prime or not, by taking the number as input from the keyboard.
+5. To reverse a given number entered by the user via the keyboard, using the BufferedReader class for input handling.
+6. Write a program to show that during function overloading, if no matching argument is found, then Java will apply automatic type conversions (from lower to higher data type).
+7. Write a program to show the use of static functions and to pass variable length arguments in a function.
+8. Write a program to demonstrate method overloading by creating a class with multiple overloaded methods.
+9. Write a program to demonstrate the concept of boxing and unboxing.
+10. Write a program to demonstrate multiple inheritance by using a combination of a class and an interface.
